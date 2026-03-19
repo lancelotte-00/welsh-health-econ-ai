@@ -1,2 +1,2 @@
-# welsh-health-econ-ai
+# health-econ-ai
 AI health econometrics support
