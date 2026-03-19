@@ -1,2 +1,2 @@
-# health-econ-ai
+# Bronwyn
 AI health econometrics support
